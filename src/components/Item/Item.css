@@ -1,0 +1,25 @@
+.tarjetaProd {
+    background-color: #bcdefe;
+    border-radius: 5px;
+    width: 15rem;
+    padding: 10px;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.imgProd {
+    width: 150px;
+    border-radius: 15px;
+}
+
+.precioId {
+    font-weight: 700;
+    color: #bc5865;
+    font-size: small;
+    margin: 0;
+  
+    
+}
+

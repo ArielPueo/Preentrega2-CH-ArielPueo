@@ -1,0 +1,11 @@
+.contenedorItem {
+    text-align: center;   
+    margin: 3rem;
+    border: 3px solid #bcdefe;    
+    border-radius: 10px;
+    
+}
+
+img {
+    width: 50vw;
+}
